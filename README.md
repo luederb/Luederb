@@ -6,5 +6,5 @@ Hi, I'm <strong>Lüder</strong> and besides Kite Surfing, and beeing with my son
   <li>Student at <a href="https://github.com/neuefische" >neue Fische</a></li>
   <li>Project Manager for <a href="https://www.giz.de/en/html/index.html">Gesellschaft für Interantionale Zusammenarbeit GmbH</a> in Mali, <a href="https://maps.app.goo.gl/dGx8h46QxUuBz4GZ9">Bamako</a> from 11/19 until 03/23 </li>
   <li>Project Manager for <a href="https://www.kardex.com/de/">Kardex Holding AG</a> in Herford from 03/17 until 06/19 </li>
-  <li>10/14: M.Sc. in Industrial Engineering at the Leibniz Universität Hannover</li>
+  <li>05/16: M.Sc. in Industrial Engineering at the Leibniz Universität Hannover</li>
 </ul>
