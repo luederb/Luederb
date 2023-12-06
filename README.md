@@ -8,13 +8,3 @@ Hi, I'm <strong>Lüder</strong> and besides Kite Surfing, and beeing with my son
   <li>Project Manager for <a href="https://www.kardex.com/de/">Kardex Holding AG</a> in Herford from 03/17 until 06/19 </li>
   <li>M.Sc. in Industrial Engineering at the Leibniz Universität Hannover</li>
 </ul>
-
-![alt text](https://avatars.githubusercontent.com/u/136329211?v=4 "Profilfoto")
-
-Meine Hobbies sind: 
-- Badminton
-- Kitesurfen
-- Fahrrad fahren
-
-
-## second headline
