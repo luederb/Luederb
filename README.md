@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Lüder </h3>
 
-<p >Besides Kite Surfing, and beeing with my son, I really enjoy going on adventures in the world and creating and fixing things. I love woodworking and engineering and creating and designing web-applications / apps. Currently I'm living in Tunis, Tunesia, moving back to Germany in March / April `24. </p>
+<p >Besides Kite Surfing, and beeing with my son, I really enjoy going on adventures in the world and creating and fixing things. I love woodworking and engineering and creating and designing web-applications / apps. Currently I'm living in Tunis, Tunesia, moving back to Germany in April `24. </p>
 <h2></h2>
 <ul>
   <li>Student at <a href="https://github.com/neuefische" >neue Fische</a></li>
